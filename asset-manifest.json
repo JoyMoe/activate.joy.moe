@@ -1,0 +1,21 @@
+{
+  "/umi.css": "/umi.css",
+  "/umi.js": "/umi.js",
+  "/p__Home__index.css": "/p__Home__index.chunk.css",
+  "/p__Home__index.js": "/p__Home__index.async.js",
+  "/p__404.js": "/p__404.async.js",
+  "/layouts__index.css": "/layouts__index.chunk.css",
+  "/layouts__index.js": "/layouts__index.async.js",
+  "/909.async.js": "/909.async.js",
+  "/330.async.js": "/330.async.js",
+  "/678.async.js": "/678.async.js",
+  "/276.async.js": "/276.async.js",
+  "/181.async.js": "/181.async.js",
+  "/assets/notice/20230319-041101.png": "/assets/notice/20230319-041101.png",
+  "/assets/background.svg": "/assets/background.svg",
+  "/.DS_Store": "/.DS_Store",
+  "/assets/.DS_Store": "/assets/.DS_Store",
+  "/api/notice/mobile-version-release.md": "/api/notice/mobile-version-release.md",
+  "/api/notice.json": "/api/notice.json",
+  "/CNAME": "/CNAME"
+}
